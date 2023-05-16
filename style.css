@@ -1,0 +1,18 @@
+:root {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+header {
+    position: center;
+    font-size: large;
+}
+
+content {
+    font-style: oblique;
+}
+
+footer {
+    font-size: small;
+}
