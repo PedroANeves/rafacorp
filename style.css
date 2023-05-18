@@ -1,12 +1,13 @@
 :root {
     background-color: black;
     color: white;
-    text-align: center;
+    
 }
 
 header {
     position: center;
     font-size: large;
+    text-align: center;
 }
 
 content {
@@ -15,6 +16,7 @@ content {
 
 footer {
     font-size: small;
+    text-align: center;
 }
 
 .h1 {
